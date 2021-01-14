@@ -1,0 +1,6 @@
+person = {
+name: "Barry",
+age: 23
+}
+
+person
